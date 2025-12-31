@@ -2,7 +2,8 @@
 🧾 What is Logging?
 ###########################
 
--> Logging is the process of recording the application's activity, errors, and other useful information into a file (or console). These records are called log messages.
+-> Logging is the process of recording the application's activity, errors, and 
+   other useful information into a file (or console). These records are called log messages.
 
 ###################################
 ✅ Why is Logging Important?
